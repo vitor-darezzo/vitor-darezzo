@@ -1,6 +1,6 @@
 # 💫 Sobre mim:
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (3º semestre - Anhanguera Santana)  
-💼 Auxiliar de TI na Cikala, atuando com suporte técnico, infraestrutura e automação de processos  
+💼 Auxiliar de TI, atuando com suporte técnico, infraestrutura, redes e automação de processos
 🤖 Desenvolvedor iniciante com foco em JavaScript, Node.js e projetos com Arduino  
 🚀 Participando de projetos acadêmicos e pessoais nas áreas de sistemas embarcados, bots de atendimento e visualização de dados  
 📚 Bolsista 100% pelo PROUNI, sempre buscando crescimento contínuo na área de tecnologia  
