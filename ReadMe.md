@@ -1,7 +1,7 @@
 # 💫 Sobre mim:
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º semestre - Anhanguera Santana)  
 💼 Auxiliar de TI, atuando com suporte técnico, infraestrutura, redes e automação de processos
-🤖 Desenvolvedor iniciante com foco em JavaScript, Node.js.
+🤖 Desenvolvedor iniciante com foco em JavaScript, Node.js
 🚀 Participando de projetos acadêmicos e pessoais nas áreas de sistemas embarcados, bots de atendimento e visualização de dados  
 📚 Bolsista 100% pelo PROUNI, sempre buscando crescimento contínuo na área de tecnologia  
 🔍 Aberto a oportunidades de estágio e desafios que envolvam desenvolvimento de sistemas
